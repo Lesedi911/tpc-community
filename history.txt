@@ -1,0 +1,86 @@
+    1  '''bash
+    2  mkdir Tpc_Community
+    3  cd Tpc_Community
+    4  mkdir automation_scripts
+    5  cd automation_scripts
+    6  touch deploy.sh
+    7  echo "hi world" > deploy.sh
+    8  cd Tpc_Community
+    9  cd ..
+   10  mkdir documentation
+   11  cd documentation
+   12  touch style_guide.txt
+   13  echo "hi world" > style_guide.txt
+   14  ls
+   15  cd ..
+   16  git init
+   17  git add
+   18  git add .
+   19  git init
+   20  git add .
+   21  git commit -m "made a file called automation scripts"
+   22  git commit -m "also created a file called  documentation"
+   23  git clone https://github.com/Lesedi911/tpc-community.git
+   24  git push original main
+   25  git push origin main
+   26  git push origin main https://github.com/Lesedi911/Tpc_Community.git
+   27  git push https://github.com/Lesedi911/Tpc_Community.git
+   28  git push https://github.com/Lesedi911/tpc-community.git
+   29  code .
+   30  pwd
+   31  git push
+   32  git add .
+   33  git init
+   34  git add .
+   35  git commit "i have created an automation folder"
+   36  git remote origin
+   37  git remote https://github.com/Lesedi911/tpc-community.git
+   38  git push
+   39  git push origin main
+   40  git remote add https://github.com/Lesedi911/tpc-community.git
+   41  git remote -v
+   42  git remote add origin https://github.com/Lesedi911/tpc-community.git
+   43  git push
+   44  git init
+   45  git add .
+   46  git push
+   47* git commit "i have created
+   48  git push
+   49  code .
+   50  git commit -m "i have created an automation folder"
+   51  git push
+   52  git push origin main
+   53  git checkout -b task
+   54  git push origin task
+   55  git checkout main
+   56  git pull
+   57  code .
+   58  git add .
+   59  git commit -m "i have created an automation folder"
+   60  git push
+   61  git push origin main
+   62  git init
+   63  git add .
+   64  git commit -m "i have created an automation folder1"
+   65  git push origin main
+   66  git merge task
+   67  git branch
+   68  git merge main
+   69  git push
+   70   git push --set-upstream origin main
+   71  git push https://github.com/Lesedi911/Tpc_Community.git
+   72  git remote remove origin
+   73  https://github.com/Lesedi911/tpc-community.git
+   74  git push origin main
+   75  ls
+   76  git clone https://github.com/Lesedi911/tpc-community.git
+   77  git remote add origin https://github.com/Lesedi911/tpc-community.git
+   78  git init
+   79  git add
+   80  git add .
+   81  git commit -m "i added lesedi"
+   82  push origin main
+   83  cd automatiom_scripts
+   84  nano automation_scripts
+   85  nano history.txt
+   86  history
